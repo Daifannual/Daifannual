@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="nextjs logo"  />
 </div>
 
 ###
