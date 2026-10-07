@@ -1,4 +1,4 @@
-<h1 align="left">Hai 👋 Saya Daifan</h1>
+<h1 align="left">Hai, Saya Daifan</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Mempelajari programming dari 2023<br>📚 Sedang mendalami Front-end development (HTML, CSS, JavaScript, React.js) dan UI/UX design.<br>🎯 Goals: Menjadi seorang front-end developer yang mampu menciptakan antarmuka web yang responsif, interaktif, dan user-friendly.</p>
+<p align="left"> -Mempelajari programming dari 2023<br> -Sedang mendalami Front-end development (HTML, CSS, JavaScript, React.js) dan UI/UX design.<br> -Goals: Menjadi seorang front-end developer yang mampu menciptakan antarmuka web yang responsif, interaktif, dan user-friendly.</p>
 
 ###
 
